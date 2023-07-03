@@ -1,0 +1,35 @@
+body {
+    background-color: #111111;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn__custom-primary {
+    background-color: transparent;
+    color: #F54E51;
+    border-radius: 10px;
+    border: 1px solid #F54E51;
+    cursor: pointer;
+    transition: 0.3s all ease;
+}
+
+.btn__custom-primary:hover {
+    background-color: #F54E51;
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.btn__custom-primary:active {
+    background-color: #e73035;
+    color: #fff;
+    border-radius: 10px;
+    border: 1px solid transparent;
+}
+
+.btn__custom-primary__small {
+    padding: 7px 25px;
+}
+

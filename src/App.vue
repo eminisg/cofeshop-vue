@@ -1,12 +1,14 @@
 <script>
 import Home from "./views/Home.vue";
+
 export default {
   components: {Home}
 }
 </script>
 
 <template>
-<home></home>
+  <Header></Header>
+  <router-view></router-view>
 </template>
 
 <style scoped>

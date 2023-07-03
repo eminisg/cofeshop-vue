@@ -1,10 +1,11 @@
 <template>
-  <h1>HOME WORK</h1>
+  <h1>ABOUT WORK</h1>
+
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: "About"
 }
 </script>
 

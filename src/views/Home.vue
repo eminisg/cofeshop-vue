@@ -1,0 +1,13 @@
+<template>
+  <Header></Header>
+</template>
+
+<script>
+export default {
+  name: "Home",
+}
+</script>
+
+<style scoped>
+
+</style>

@@ -33,3 +33,23 @@ a {
     padding: 7px 25px;
 }
 
+.main-text {
+    color: #979797;
+}
+
+.secondary-text {
+    color: #E2E2E2;
+}
+
+.section-wrapper {
+    padding: 0 128px;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #4A4A4A !important;
+}
+
+.border-left {
+    border-left: 1px solid #4A4A4A !important;
+}
+

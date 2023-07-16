@@ -2,9 +2,8 @@
   <div class="container">
     <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3">
       <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
-        <img src="src/assets/images/logo.png" alt="">
+        <img src="src/assets/images/logo.png" alt="logo">
       </a>
-
       <ul class="nav col-12 col-md-4 mb-2 justify-content-between mb-md-0">
         <li><router-link to="/home" :class="getActiveNavLink('home')">Home</router-link></li>
         <li><router-link to="/services" :class="getActiveNavLink('services')">Services</router-link></li>
